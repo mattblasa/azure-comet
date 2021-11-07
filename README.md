@@ -1,1 +1,1 @@
-# azure-comet
+# Integrating Comet and Azure Databricks
