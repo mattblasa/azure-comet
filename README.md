@@ -25,18 +25,40 @@ Click below for the Medium article:
 ## Installation
 
 This project is focused for the Azure Databricks environment. 
-To run this project, you will need to install Comet library to your cluster.
+To run this project, you will need a Databricks to install Comet library to your cluster, 
+and upload the project file. 
+
+
+<b>Installing Libraries</b>
 
 To get started, select the Install New tab in your cluster:
 
 ![Logo](https://cdn-images-1.medium.com/max/640/1*7XSXE1druNLR7afGyeQvJQ.png)
 
-In the Install Library window, select PyPI button. In the package box, type <i>comet_ml</i>.
-<br>
+In the Install Library window, select PyPI button. In the package box, type "comet_ml"
 If you have a MLflow workflow, I would recommend installing comet_automl. Comet_automl
 is able to log any existing MLFlow workflow in Databricks. 
 
 ![Logo](https://cdn-images-1.medium.com/max/640/1*e_TkO3CyTjb4ks-yBBJjSQ.png)
+
+<br>
+
+<b>Using Project File</b>
+
+<i>NOTE: that Comet API Key has been removed from project file, for privacy reasons. 
+You will need to add your experiment API key to log data from Databricks </i>
+
+To install the file to a Databricks notebook, download the repository and upload the
+file via the import notbooks option in Databricks. 
+
+To access file import, first right click in the workspace and click "import" 
+![Logo](https://i.ibb.co/QbnQqyR/Import.png)
+<br>
+Import will then take you to the import notebooks popup. Either drop the file or click to upload either
+Azure-DB-Comet.py or Azure DB-Comet_Jpyter.ipynb to the notebook.
+
+![Logo](https://i.ibb.co/BC0dyWJ/uploading-file.png)
+
 
 
 ## 🔗  Project Links
