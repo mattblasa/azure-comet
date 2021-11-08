@@ -14,8 +14,8 @@
 This is the companion respository for the Heartbeat article "Integrating Azure and Comet"
 by Matt Blasa.  
 
-The contents of this repository is the source code of how to use Comet's machine learning
-and experiment tracking within in a Azure Databricks environment.
+The contents of this repository is example source code demonstrating Comet's machine learning
+and experiment tracking within in a Azure Databricks environment. 
 
 Click below for the Medium article: 
 
@@ -36,7 +36,7 @@ To get started, select the Install New tab in your cluster:
 ![Logo](https://cdn-images-1.medium.com/max/640/1*7XSXE1druNLR7afGyeQvJQ.png)
 
 In the Install Library window, select PyPI button. In the package box, type `comet_ml`
-If you have a MLflow workflow, I would recommend installing comet_automl. Comet_automl
+If you have a MLflow workflow, I would recommend installing `comet_automl`. Comet_automl
 is able to log any existing MLFlow workflow in Databricks. 
 
 ![Logo](https://cdn-images-1.medium.com/max/640/1*e_TkO3CyTjb4ks-yBBJjSQ.png)
