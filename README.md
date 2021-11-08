@@ -18,6 +18,22 @@ Click below for the Medium article:
 [![medium](https://img.shields.io/badge/Medium_Article-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
 
 
+## Installation
+
+This project is focused for the Azure Databricks environment. 
+To run this project, you will need to install Comet library to your cluster.
+
+To get started, select the Install New tab in your cluster:
+
+![Logo](https://cdn-images-1.medium.com/max/640/1*7XSXE1druNLR7afGyeQvJQ.png)
+
+In the Install Library window, select PyPI button. In the package box, type "comet_ml"
+If you have a MLflow workflow, I would recommend installing comet_automl. Comet_automl
+is able to log any existing MLFlow workflow in Databricks. 
+
+![Logo](https://cdn-images-1.medium.com/max/640/1*e_TkO3CyTjb4ks-yBBJjSQ.png)
+
+
 ## Repository Structure
 * README.md: Project Description
 * Azure-DB-Comet.py: Main Source Code from Databricks 
@@ -26,6 +42,8 @@ Click below for the Medium article:
 
 * Diamond Grading Overview: https://www.lumeradiamonds.com/diamond-education/index
 * Comet Experiment: https://www.comet.ml/mattblasa/azure-and-comet/view/new
+* Comet Documentation: https://www.comet.ml/docs/python-sdk/Experiment/
+
 
 ## Profile Links
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://blaza.medium.com/)
