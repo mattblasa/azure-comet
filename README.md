@@ -53,7 +53,7 @@ file via the import notbooks option in Databricks.
 
 To access file import, first right click in the workspace and click "import" 
 ![Logo](https://i.ibb.co/QbnQqyR/Import.png)
-<br>
+
 Import will then take you to the import notebooks popup. Either drop the file or click to upload either
 Azure-DB-Comet.py or Azure DB-Comet_Jpyter.ipynb to the notebook.
 
