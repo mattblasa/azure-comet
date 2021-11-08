@@ -5,6 +5,10 @@
 ![Logo](https://i.ibb.co/vHNXVFb/9e52caaa2de099bd1b1ba9616e497f58.jpg)
 
 
+## Repository Structure
+* README.md: Project Description
+* Azure-DB-Comet.py: Main Source Code from Databricks 
+* Azure DB-Comet_Jpyter.ipynb: Jupyter Notebook Version of Azure-DB-Comet
 ## About This Project
 
 This is the companion respository for the Heartbeat article "Integrating Azure and Comet"
@@ -34,10 +38,6 @@ is able to log any existing MLFlow workflow in Databricks.
 ![Logo](https://cdn-images-1.medium.com/max/640/1*e_TkO3CyTjb4ks-yBBJjSQ.png)
 
 
-## Repository Structure
-* README.md: Project Description
-* Azure-DB-Comet.py: Main Source Code from Databricks 
-* Azure DB-Comet_Jpyter.ipynb: Jupyter Notebook Version of Azure-DB-Comet
 ## 🔗  Project Links
 
 * Diamond Grading Overview: https://www.lumeradiamonds.com/diamond-education/index
@@ -45,7 +45,7 @@ is able to log any existing MLFlow workflow in Databricks.
 * Comet Documentation: https://www.comet.ml/docs/python-sdk/Experiment/
 
 
-## Follow Me
+## Profile Links
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://blaza.medium.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mblasa/)
 
