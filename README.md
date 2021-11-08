@@ -49,9 +49,8 @@ is able to log any existing MLFlow workflow in Databricks.
 You will need to add your experiment API key to log data from Databricks </i>
 
 To install the file to a Databricks notebook, download the repository and upload the
-file via the import notbooks option in Databricks. 
+file via the import notbooks option in Databricks. To access file import, first right click in the workspace and click "import" 
 
-To access file import, first right click in the workspace and click "import" 
 ![Logo](https://i.ibb.co/QbnQqyR/Import.png)
 <br>
 <br>
