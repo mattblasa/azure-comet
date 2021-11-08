@@ -35,7 +35,7 @@ To get started, select the Install New tab in your cluster:
 
 ![Logo](https://cdn-images-1.medium.com/max/640/1*7XSXE1druNLR7afGyeQvJQ.png)
 
-In the Install Library window, select PyPI button. In the package box, type "comet_ml"
+In the Install Library window, select PyPI button. In the package box, type `comet_ml`
 If you have a MLflow workflow, I would recommend installing comet_automl. Comet_automl
 is able to log any existing MLFlow workflow in Databricks. 
 
