@@ -45,7 +45,7 @@ is able to log any existing MLFlow workflow in Databricks.
 * Comet Documentation: https://www.comet.ml/docs/python-sdk/Experiment/
 
 
-## Profile Links
+## Follow Me
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://blaza.medium.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mblasa/)
 
