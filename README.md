@@ -24,7 +24,8 @@ Click below for the Medium article:
 The data used in this project is from the diamond dataset, which contains the prices and other attributes of almost 54,000 diamonds. The data set was loaded 
 directly from a Azure storage blob that holds example data sets. Code to load the data set from the blob is included in both the Python file and the jupyter notebook. 
 
-* The data set contains 10 features: 
+The data set contains 10 columns: 
+
 * price -  price in US dollars (numeric)
 * carat -  weight of the diamond (numeric)
 *cut - quality of the cut (categorical)
