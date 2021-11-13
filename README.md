@@ -38,7 +38,7 @@ The data set contains 10 columns:
 * depth -  total depth (numeric)
 * table -  width of top of diamond relative to widest point (numeric)
 
-A description of these terms can be found below, in the project links section. 
+A website with a detailed description of these terms can be found below, in the project links section. 
 
 ## Installation
 
