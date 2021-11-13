@@ -2,7 +2,7 @@
 # Integrating Azure and Comet 
 
 
-![Logo](https://i.ibb.co/vHNXVFb/9e52caaa2de099bd1b1ba9616e497f58.jpg)
+![Logo](https://i.ibb.co/D9RggyP/let-s-escape-to.png)
 
 
 ## Repository Structure
