@@ -9,7 +9,7 @@
 * Azure DB-Comet_Jpyter.ipynb: Jupyter Notebook Version of Azure-DB-Comet
 ## About This Project
 
-This is the companion respository for the Heartbeat article "Integrating Azure and Comet"
+This is the companion respository for the Heartbeat article <i>Integrating Azure and Comet</i>
 by Matt Blasa.  
 
 The contents of this repository is example source code demonstrating Comet's machine learning
