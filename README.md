@@ -1,6 +1,4 @@
 
-# Integrating Azure and Comet 
-
 
 ![Logo](https://i.ibb.co/D9RggyP/let-s-escape-to.png)
 
