@@ -19,6 +19,24 @@ Click below for the Medium article:
 
 [![medium](https://img.shields.io/badge/Medium_Article-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
 
+## Data 
+
+The data used in this project is from the diamond dataset, which contains the prices and other attributes of almost 54,000 diamonds. The data set was loaded 
+directly from a Azure storage blob that holds example data sets. Code to load the data set from the blob is included in both the Python file and the jupyter notebook. 
+
+* The data set contains 10 features: 
+* price -  price in US dollars (numeric)
+* carat -  weight of the diamond (numeric)
+*cut - quality of the cut (categorical)
+* color -  diamond color (categorical)
+* clarity - a measurement of how clear the diamond is (categorical)
+* x -  length in mm (numeric)
+* y -  width in mm (numeric)
+* z -  depth in mm (numeric)
+* depth -  total depth (numeric)
+* table -  width of top of diamond relative to widest point (numeric)
+
+A description of these terms can be found below, in the project links section. 
 
 ## Installation
 
