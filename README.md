@@ -17,7 +17,7 @@ and experiment tracking within in a Azure Databricks environment.
 
 Click below for the Medium article: 
 
-[![medium](https://img.shields.io/badge/Medium_Article-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
+[![medium](https://img.shields.io/badge/Integrating_Azure_&_Comet-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://medium.com/)
 
 ## Data 
 
